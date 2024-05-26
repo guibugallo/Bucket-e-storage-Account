@@ -22,7 +22,7 @@ provider "aws" {
 
   default_tags {
     tags = {
-      owner      = "guiBugallo"
+      owner      = "Nome de Exemplo do Owner"
       managed-by = "Terraform"
     }
   }
