@@ -1,6 +1,6 @@
 locals {
   common_tags = {
-    owner      = "guiBugallo"
+    owner      = "Nome de Exemplo"
     managed-by = "Terraform"
   }
 }
